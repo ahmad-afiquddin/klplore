@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/klplore/static/js/runtime~main.4c544ae0.js"
   },
   {
-    "revision": "f1bc462c0c0da3a72049",
+    "revision": "a3c5ea7ddae85346537f",
     "url": "/klplore/static/js/main.aa482b25.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/klplore/static/js/2.21c8b783.chunk.js"
   },
   {
-    "revision": "f1bc462c0c0da3a72049",
-    "url": "/klplore/static/css/main.71803b39.chunk.css"
+    "revision": "a3c5ea7ddae85346537f",
+    "url": "/klplore/static/css/main.0c3e584a.chunk.css"
   },
   {
-    "revision": "32150ccd9bf73d39b3e68be7bb315da3",
+    "revision": "5ace31cbba3ea70b576150278c035138",
     "url": "/klplore/index.html"
   }
 ];

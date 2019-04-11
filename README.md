@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Gif demonstration at the end of README since webapp is not displaying the map properly [Webapp](https://ahmad-afiquddin.github.io/klplore/)
+
+## Prerequisites
+
+Before starting, make sure you have signed up and have api keys for both yelp fusion and mapbox, and copy and paste them respectively into modules/yelpAPI.js and components/Map.js
+
 ## Available Scripts
 
 In the project directory, you can run:

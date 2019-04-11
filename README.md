@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Gif demonstration at the end of README since webapp is not rendering react-leaflet properly [Webapp](https://ahmad-afiquddin.github.io/klplore/)
 
+## What it does
+
+A webapp that allows user to explore Kuala Lumpur using react-leaflet to render a map and yelp api to search for places
+
 ## Prerequisites
 
 Before starting, make sure you have signed up and have api keys for both yelp fusion and mapbox, and copy and paste them respectively into modules/yelpAPI.js and components/Map.js

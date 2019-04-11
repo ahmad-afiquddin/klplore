@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Gif demonstration at the end of README since webapp is not displaying the map properly [Webapp](https://ahmad-afiquddin.github.io/klplore/)
+Gif demonstration at the end of README since webapp is not rendering react-leaflet properly [Webapp](https://ahmad-afiquddin.github.io/klplore/)
 
 ## Prerequisites
 
@@ -72,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### GIF demonstration
+
+![Basic demo](https://media.giphy.com/media/js56LePDoViyCDzRcy/giphy.gif)

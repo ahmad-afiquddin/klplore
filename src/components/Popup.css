@@ -1,0 +1,25 @@
+.popup-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: inherit;
+    font-family:"Trebuchet MS", Helevetica, sans-serif;
+    text-decoration: none;
+    text-align:center;
+}
+
+.popup-image
+{
+  width:150px;
+  align-items:center;
+  margin:auto;
+}
+
+.popup-details
+{
+  width:200px;
+  text-align:left;
+  margin:10px auto;
+  font-family:Montserrat;
+  font-size:10px;
+  color:black;
+}

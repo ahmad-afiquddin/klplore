@@ -78,3 +78,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Basic Demo
 
 ![Basic demo](https://media.giphy.com/media/js56LePDoViyCDzRcy/giphy.gif)
+
+Liking a Place
+
+![Likes](https://media.giphy.com/media/jnhbwP6k6yzwQmtfSP/giphy.gif)

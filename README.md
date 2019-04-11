@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Gif demonstration at the end of README since webapp is not rendering react-leaflet properly [Webapp](https://ahmad-afiquddin.github.io/klplore/)
+Gif demonstration at the end of README [Webapp](https://ahmad-afiquddin.github.io/klplore/)
 
 ## What it does
 

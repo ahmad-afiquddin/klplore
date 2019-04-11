@@ -1,0 +1,14 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "homepage":"https://ahmad-afiquddin.github.io/klplore",
+  "scripts": {
+    "start": "npm run shell",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "private": true
+}

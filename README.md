@@ -75,4 +75,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### GIF demonstration
 
+Basic Demo
+
 ![Basic demo](https://media.giphy.com/media/js56LePDoViyCDzRcy/giphy.gif)

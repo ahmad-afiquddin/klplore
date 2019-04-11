@@ -1,6 +1,6 @@
 import qs from 'qs'
 const BASE_URL = "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3"
-const YELP_API_KEY = "j0LUXihdC9xkNABzsSkjcyYWV5kliPUkprRSMm-iz5emlkCAr_DbOOzUBMhWtbcIio9vNBAaUik8VJgW3jPIcg0Ifxmowt6yKRBcxLxnpluAQODICiw66-wkmI1wXHYx"
+const YELP_API_KEY = "{YOUR API KEY HERE}"
 export const searchBusiness = async(searchStr, location, category) =>
 {
     const params = qs.stringify(

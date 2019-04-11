@@ -3,7 +3,7 @@ import {Map as LeafletMap, TileLayer} from 'react-leaflet'
 import "./Map.css"
 import Marker from './Marker'
 
-const MAPBOX_URL = 'https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYWhtYWRhZmlxdWRkaW4iLCJhIjoiY2pzZ3BzamwxMDJiNTQ0bno1Zm8xdnM3aiJ9.t9dx5HOi2nervOwpdGMUOQ';
+const MAPBOX_URL = 'https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={YOUR MAPBOX API KEY HERE}';
 
 
 class Map extends Component {

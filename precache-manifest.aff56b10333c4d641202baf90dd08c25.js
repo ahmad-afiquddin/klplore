@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/klplore/static/css/main.fd8fc605.chunk.css"
   },
   {
-    "revision": "6a5d17945cc4cf51d587df96b28bddd5",
+    "revision": "1ffb6762e646fe7d8b2436d1644154a6",
     "url": "/klplore/index.html"
   }
 ];

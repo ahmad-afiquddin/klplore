@@ -37,11 +37,13 @@ class App extends Component {
   {
     if (like === 1)
     {
-      this.state.liked[business.name] = business.url
+      this.state.liked[business.name] = business.url;
+      this.setState(this.state.liked);
     }
     else
     {
-      delete this.state.liked[business.name]
+      delete this.state.liked[business.name];
+      this.setState(this.state.liked);
     }
     console.log(this.state.liked)
   }
